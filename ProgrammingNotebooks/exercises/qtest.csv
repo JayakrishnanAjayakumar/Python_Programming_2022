@@ -16,3 +16,4 @@ qNo,Type,Values,Answer
 15,Cbox,13|25|27|32,0
 16,Cbox,13|25|27|32,0
 17,Cbox,10|11|Never prints anything|12,0
+18,Cbox,Yes|No,0
